@@ -1,0 +1,45 @@
+/* Hero Section */
+.hero {
+    height: 90vh;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url(./images/main.jpg) no-repeat center center/cover;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+/* Footer */
+footer {
+    background-color: #000;
+}
+
+/* External CSS File */
+.social-icons a i {
+    font-size: 1.5rem;
+}
+
+.social-icons a {
+    text-decoration: none;
+}
+
+.social-icons a.instagram {
+    color: #E1306C;
+}
+
+.social-icons a.facebook {
+    color: #1877F2;
+}
+
+.social-icons a.whatsapp {
+    color: #25D366;
+}
+
+.social-icons a.youtube {
+    color: #FF0000;
+}
